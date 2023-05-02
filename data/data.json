@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("61a6058e6c43f32854e51f51"),
+    "Name" : "Design Patterns",
+    "Price" : 54.93,
+    "Category" : "Computers",
+    "Author" : "Ralph Johnson"
+}
+{
+    "_id" : ObjectId("61a6058e6c43f32854e51f52"),
+    "Name" : "Clean Code",
+    "Price" : 43.15,
+    "Category" : "Computers",
+    "Author" : "Robert C. Martin"
+}
